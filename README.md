@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://orviandev.com">
-    🌐 orviandev.com
+     orviandev.com
   </a>
 </p>
 
