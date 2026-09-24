@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Emirhan 👋</h1>
 
 <p align="center">
-  Web Developer • FiveM Developer • Founder of Orvian Development
+  Web Developer • Founder of Orvian Development
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  I'm <b>Emirhan</b>, a developer focused on building modern web applications,
-  FiveM resources and custom systems.
+  I'm <b>Emirhan</b>, a developer focused on building modern web applications
+  and custom systems.
 </p>
 
 <p align="center">
@@ -29,8 +29,6 @@
 
 <p align="center">
   💻 Web Development
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🎮 FiveM Development
   &nbsp;&nbsp;•&nbsp;&nbsp;
   ⚙️ Backend Systems
   &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -43,7 +41,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,php,lua,nodejs,mysql,git,github,vscode"
+    src="https://skillicons.dev/icons?i=html,css,js,php,lua,mysql,git,github,vscode"
     alt="Tech Stack"
   />
 </p>
@@ -55,17 +53,7 @@
 <h3 align="center">Web Development</h3>
 
 <p align="center">
-  HTML • CSS • Tailwind CSS • JavaScript • TypeScript • PHP • Node.js • MySQL
-</p>
-
-<h3 align="center">FiveM Development</h3>
-
-<p align="center">
-  Lua • QBCore • ox_lib • ox_inventory • oxmysql • Custom FiveM Scripts
-</p>
-
-<p align="center">
-  Server Systems • Discord Integrations
+  HTML • CSS • Tailwind CSS • JavaScript • PHP • MySQL
 </p>
 
 ---
@@ -75,7 +63,7 @@
 <h3 align="center">Orvian Development</h3>
 
 <p align="center">
-  Development projects focused on modern web systems, FiveM resources
+  Development projects focused on modern web systems
   and custom software solutions.
 </p>
 
@@ -93,23 +81,15 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=svorssy&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api?username=svorssy&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
     alt="GitHub Stats"
   />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=svorssy&theme=github_dark"
-    alt="Top Languages"
-  />
-</p>
 
-<p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=svorssy&theme=github_dark"
-    alt="Most Used Languages"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=svorssy&theme=github_dark&utcOffset=3"
-    alt="Productive Time"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=svorssy&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Top Languages"
   />
 </p>
 
@@ -126,31 +106,17 @@
 
 ---
 
-<h2 align="center">Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svorssy&theme=github_dark"
-    width="100%"
-    alt="GitHub Contribution Activity"
-  />
-</p>
-
----
-
 <h2 align="center">Current Focus</h2>
 
 <p align="center">
   🌐 Modern Web Projects
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  🎮 FiveM Resources
-  &nbsp;&nbsp;•&nbsp;&nbsp;
   ⚙️ Backend Systems
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🔌 API Integrations
 </p>
 
 <p align="center">
-  🔌 API Integrations
-  &nbsp;&nbsp;•&nbsp;&nbsp;
   📦 Open Source
   &nbsp;&nbsp;•&nbsp;&nbsp;
   🚀 Orvian Development
