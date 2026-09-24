@@ -41,7 +41,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,php,lua,mysql,git,github,vscode"
+    src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode"
     alt="Tech Stack"
   />
 </p>
@@ -68,6 +68,12 @@
 </p>
 
 <p align="center">
+  <a href="https://orviandev.com">
+    🌐 orviandev.com
+  </a>
+</p>
+
+<p align="center">
   <img
     src="./orvian.png"
     alt="Orvian Development"
@@ -81,15 +87,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=svorssy&show_icons=true&theme=github_dark&hide_border=true"
-    height="165"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=svorssy&layout=compact&theme=github_dark&hide_border=true"
-    height="165"
-    alt="Top Languages"
+    src="https://github-profile-trophy.vercel.app/?username=svorssy&theme=darkhub&no-frame=true&no-bg=true&margin-w=8"
+    alt="GitHub Trophies"
   />
 </p>
 
